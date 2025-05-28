@@ -25,7 +25,10 @@ Passionate about building reliable, efficient, and scalable systems. My expertis
 
 - **DirCrypt**  
   Secure directory encryption tool designed for simplicity and speed, leveraging C++ for maximum performance.
-
+  
+- **MiniRT**  
+  Written entirely in c the project implements complex mathematical equations and modern rendering techniques to provide a Mini raytracer.
+  
 ---
 
 ### 🌐 Connect with Me
