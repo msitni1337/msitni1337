@@ -40,7 +40,6 @@ Passionate about building reliable, efficient, and scalable systems. My expertis
 
 ### 📊 GitHub Stats
 
-![msitni1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=msitni1337&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msitni1337&layout=compact&theme=default)
 
 ---
